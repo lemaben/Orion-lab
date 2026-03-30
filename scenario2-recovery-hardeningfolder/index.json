@@ -1,0 +1,24 @@
+{
+  "title": "Orion Logistics - Recovery and Hardening",
+  "description": "Restore the service, automate one investigation step with Bash, and secure the environment.",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Recover and Secure the System",
+        "text": "step1.md",
+        "verify": "verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

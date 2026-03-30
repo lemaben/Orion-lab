@@ -1,0 +1,24 @@
+{
+  "title": "Orion Logistics - Investigation",
+  "description": "Investigate a broken internal tracking service, inspect evidence, search logs, and find the missing key.",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Investigate the System",
+        "text": "step1.md",
+        "verify": "verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
