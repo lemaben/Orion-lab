@@ -8,5 +8,6 @@ Avant de corriger un problème, il faut observer l’état actuel.
 
 ## Commande
 
+```bash
 cd /opt/orion-system
 ./service_status.sh

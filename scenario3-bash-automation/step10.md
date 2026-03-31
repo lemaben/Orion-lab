@@ -1,8 +1,5 @@
----
-
 ## STEP 10 — Exercices
 
-```markdown
 ## Exercice 1
 
 Créer un script qui :

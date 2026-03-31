@@ -6,4 +6,5 @@
 
 Relancez :
 
+```bash
 ./service_status.sh

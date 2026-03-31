@@ -1,8 +1,5 @@
----
-
 ## STEP 4 — Exécution
 
-```markdown
 ## Concept
 
 Un script doit être exécutable.

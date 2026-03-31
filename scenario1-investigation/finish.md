@@ -1,5 +1,3 @@
----
-
 # 🏁 finish.md
 
 # Phase 1 terminée

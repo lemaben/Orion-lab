@@ -1,5 +1,3 @@
----
-
 # 👻 STEP 6 — fichiers cachés
 
 # Étape 6 — Fichiers cachés

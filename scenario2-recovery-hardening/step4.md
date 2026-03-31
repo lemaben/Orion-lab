@@ -1,8 +1,5 @@
----
-
 # 🧱 STEP 4 — Permissions
 
-```markdown
 # Étape 4 — Comprendre les permissions
 
 ## Contexte

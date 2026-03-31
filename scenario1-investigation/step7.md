@@ -1,5 +1,3 @@
----
-
 # 🔐 STEP 7 — Base64
 
 # Étape 7 — Décodage Base64

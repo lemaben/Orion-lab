@@ -1,8 +1,5 @@
----
-
 ## STEP 7 — Application finale
 
-```markdown
 ## Mission
 
 Créer un script complet qui :

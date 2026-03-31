@@ -1,8 +1,5 @@
----
-
 ## STEP 3 — Premier script
 
-```markdown
 ## Essai
 
 Créer un fichier :

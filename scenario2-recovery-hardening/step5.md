@@ -1,8 +1,5 @@
----
-
 # 🧱 STEP 5 — Sécurisation
 
-```markdown
 # Étape 5 — Sécuriser le fichier
 
 ## Concept

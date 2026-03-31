@@ -16,4 +16,5 @@ La commande `cp` permet de copier un fichier.
 
 ## Exemple
 
+```bash
 cp source destination

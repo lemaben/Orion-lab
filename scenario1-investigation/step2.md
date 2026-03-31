@@ -1,8 +1,5 @@
----
-
 # 📄 STEP 2 — Lecture fichiers
 
-```markdown
 # Étape 2 — Lecture des fichiers
 
 ## Contexte
