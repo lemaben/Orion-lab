@@ -1,6 +1,6 @@
 {
-  "title": "Orion Logistics - Investigation",
-  "description": "Investigate a broken internal tracking service, inspect evidence, search logs, and find the missing key.",
+  "title": "Orion Logistics - Investigation et Découverte",
+  "description": "Apprendre à explorer un système Linux, analyser des logs et identifier la cause d’un problème.",
   "details": {
     "intro": {
       "text": "intro.md",
@@ -8,11 +8,13 @@
       "background": "background.sh"
     },
     "steps": [
-      {
-        "title": "Investigate the System",
-        "text": "step1.md",
-        "verify": "verify.sh"
-      }
+      { "title": "Découverte du système", "text": "step1.md" },
+      { "title": "Lecture des fichiers", "text": "step2.md" },
+      { "title": "Analyse des logs", "text": "step3.md" },
+      { "title": "Recherche avec grep", "text": "step4.md" },
+      { "title": "Recherche de fichiers", "text": "step5.md" },
+      { "title": "Fichiers cachés", "text": "step6.md" },
+      { "title": "Décodage Base64", "text": "step7.md", "verify": "verify.sh" }
     ],
     "finish": {
       "text": "finish.md"

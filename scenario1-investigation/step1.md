@@ -1,15 +1,42 @@
-# Step 1: Investigate the System
+---
 
-Start by exploring the application directory.
+# 🧱 STEP 1 — Navigation (step1.md)
 
-## Useful commands
+```markdown
+# Étape 1 — Découverte du système
+
+## Contexte
+
+Linux est organisé comme un arbre de dossiers (répertoires).  
+Tout commence à partir de la racine `/`.
+
+---
+
+## Concepts
+
+- `/` → racine du système
+- `/home` → dossiers utilisateurs
+- `/opt` → applications installées
+
+---
+
+## Commandes importantes
+
+- `pwd` → affiche votre position
+- `ls` → liste les fichiers
+- `cd` → changer de dossier
+
+---
+
+## Essai
+
+Essayez :
+
 ```bash
+pwd
+ls /
+cd /opt
+ls
+
 cd /opt/orion-system
 ls
-ls -a
-cat notes.txt
-less system.log
-grep -i error system.log
-grep -i failed system.log
-find /opt/orion-system -name "tracking.key"
-base64 -d /opt/orion-system/backup/tracking.key

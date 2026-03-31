@@ -1,17 +1,34 @@
-# Orion Logistics - Recovery and Hardening Phase
+# Orion Logistics — Phase 2 : Remédiation et Durcissement
 
-The investigation already identified the root cause:
-the service fails because `tracking.key` is missing from its expected location.
+## Situation
 
-Your job now is to:
-- restore the service
-- automate one check with Bash
-- harden the environment before closing the incident
+Vous avez identifié la cause du problème :
 
-## Important path
-`/opt/orion-system`
+👉 Le fichier `tracking.key` est manquant à son emplacement attendu.
 
-## Guidance
-Do not stop once the service comes back online.
+Votre mission maintenant est de :
 
-Recovery without hardening is unfinished work.
+- restaurer le service
+- vérifier qu’il fonctionne
+- sécuriser le système
+- nettoyer les éléments suspects
+
+---
+
+## Objectifs
+
+Dans cette phase, vous allez apprendre à :
+
+- corriger un problème système
+- manipuler des fichiers
+- comprendre les permissions Linux
+- sécuriser un fichier sensible
+- vérifier l’état d’un service
+
+---
+
+## Important
+
+Un système fonctionnel n’est pas forcément un système sécurisé.
+
+👉 Votre travail ne s’arrête pas à "ça marche".

@@ -1,21 +1,41 @@
-# Orion Logistics - Investigation Phase
+# Orion Logistics — Phase 1 : Investigation
 
-You are a junior infrastructure/security engineer at Orion Logistics.
+## Situation
 
-The internal tracking service stopped working this morning, and early review suggests that unauthorized changes may have happened overnight.
+Vous êtes un technicien système junior chez Orion Logistics.
 
-## Your goals
-- Go to the Orion application directory
-- Review the operational note
-- Inspect the system log
-- Search for the most relevant error messages
-- Locate the missing key file
-- Decode the recovery value
+Ce matin, un service interne de suivi des livraisons ne fonctionne plus correctement.
 
-## Important path
-`/opt/orion-system`
+L’équipe technique pense qu’un problème s’est produit pendant la nuit.
 
-## Guidance
-Do not rush to fix the system.
+Votre mission est de **comprendre ce qu’il s’est passé**.
 
-In this phase, your job is to understand what happened first.
+---
+
+## Objectifs
+
+Dans cette phase, vous allez apprendre à :
+
+- naviguer dans un système Linux
+- lire des fichiers
+- analyser un journal système (log)
+- rechercher des informations efficacement
+- localiser un fichier manquant
+- comprendre une donnée encodée
+
+---
+
+## Important
+
+Dans cette phase :
+👉 Vous n’êtes pas là pour réparer  
+👉 Vous êtes là pour comprendre
+
+---
+
+## Point de départ
+
+Le système de l’application se trouve ici :
+
+```bash
+/opt/orion-system

@@ -1,15 +1,20 @@
 ---
 
-## File: `scenario1-investigation/finish.md`
+# 🏁 finish.md
 
 ```markdown
-# Investigation Complete
+# Phase 1 terminée
 
-You should now be able to answer:
+Vous avez réussi si vous pouvez expliquer :
 
-1. What caused the service to fail?
-2. Which file was missing?
-3. Where was it actually found?
-4. What was the decoded recovery code?
+- Où se trouvait le problème ?
+- Quel fichier manquait ?
+- Où a-t-il été retrouvé ?
+- Que contenait-il après décodage ?
 
-Next: recovery and hardening.
+---
+
+## Token obtenu
+
+```text
+TOKEN1=orion

@@ -1,0 +1,30 @@
+{
+  "title": "Orion Logistics - Automatisation Bash",
+  "description": "Créer un script pour automatiser l’analyse et la vérification du système.",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "foreground": "foreground.sh",
+      "background": "background.sh"
+    },
+    "steps": [
+      { "title": "Pourquoi automatiser", "text": "step1.md" },
+      { "title": "Découverte script", "text": "step2.md" },
+      { "title": "Premier script", "text": "step3.md" },
+      { "title": "Exécution", "text": "step4.md" },
+      { "title": "Script utile", "text": "step5.md" },
+      { "title": "Amélioration", "text": "step6.md" },
+      { "title": "Application finale", "text": "step7.md", "verify": "verify.sh" },
+
+      { "title": "Module Bash - approfondissement", "text": "step8.md" },
+      { "title": "Variables et logique", "text": "step9.md" },
+      { "title": "Mini exercices", "text": "step10.md" }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

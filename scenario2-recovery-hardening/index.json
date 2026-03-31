@@ -1,6 +1,6 @@
 {
-  "title": "Orion Logistics - Recovery and Hardening",
-  "description": "Restore the service, automate one investigation step with Bash, and secure the environment.",
+  "title": "Orion Logistics - Remédiation et Durcissement",
+  "description": "Restaurer un service, sécuriser le système et valider son état.",
   "details": {
     "intro": {
       "text": "intro.md",
@@ -8,11 +8,13 @@
       "background": "background.sh"
     },
     "steps": [
-      {
-        "title": "Recover and Secure the System",
-        "text": "step1.md",
-        "verify": "verify.sh"
-      }
+      { "title": "État du système", "text": "step1.md" },
+      { "title": "Remédiation", "text": "step2.md" },
+      { "title": "Validation initiale", "text": "step3.md" },
+      { "title": "Comprendre les permissions", "text": "step4.md" },
+      { "title": "Sécurisation", "text": "step5.md" },
+      { "title": "Nettoyage", "text": "step6.md" },
+      { "title": "Validation finale", "text": "step7.md", "verify": "verify.sh" }
     ],
     "finish": {
       "text": "finish.md"
