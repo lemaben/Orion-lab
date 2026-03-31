@@ -3,6 +3,7 @@
   "description": "A two-part beginner Linux incident response lab: investigation, then recovery and hardening.",
   "items": [
     { "path": "scenario1-investigation" },
-    { "path": "scenario2-recovery-hardening" }
+    { "path": "scenario2-recovery-hardening" },
+    { "path": "scenario3-bash-automation" }
   ]
 }
