@@ -2,7 +2,6 @@
 
 # 🏁 finish.md
 
-```markdown
 # Phase 2 terminée
 
 Vous avez réussi si vous pouvez expliquer :

@@ -2,7 +2,6 @@
 
 # ⚙️ background.sh (simplifié propre)
 
-```bash
 #!/bin/bash
 set -e
 

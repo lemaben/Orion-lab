@@ -2,7 +2,6 @@
 
 # 🔐 STEP 7 — Base64
 
-```markdown
 # Étape 7 — Décodage Base64
 
 ## Contexte

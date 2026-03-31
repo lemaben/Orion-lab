@@ -1,8 +1,5 @@
----
-
 # 🧱 STEP 2 — Remédiation
 
-```markdown
 # Étape 2 — Restaurer le fichier
 
 ## Problème
@@ -19,5 +16,4 @@ La commande `cp` permet de copier un fichier.
 
 ## Exemple
 
-```bash
 cp source destination

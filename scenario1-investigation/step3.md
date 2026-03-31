@@ -2,7 +2,6 @@
 
 # 🔍 STEP 3 — Logs
 
-```markdown
 # Étape 3 — Comprendre les logs
 
 ## Contexte

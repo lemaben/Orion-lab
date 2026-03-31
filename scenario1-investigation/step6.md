@@ -2,7 +2,6 @@
 
 # 👻 STEP 6 — fichiers cachés
 
-```markdown
 # Étape 6 — Fichiers cachés
 
 ## Concept

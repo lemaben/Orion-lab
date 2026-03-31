@@ -2,7 +2,6 @@
 
 # 📂 STEP 5 — find
 
-```markdown
 # Étape 5 — Recherche de fichiers
 
 ## Problème
