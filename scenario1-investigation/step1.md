@@ -2,7 +2,6 @@
 
 # 🧱 STEP 1 — Navigation (step1.md)
 
-```markdown
 # Étape 1 — Découverte du système
 
 ## Contexte
