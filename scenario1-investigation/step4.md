@@ -9,8 +9,15 @@
 ## Exemple
 
 ```bash
-grep error system.log
+grep warning system.log
 
-grep -i error /opt/orion-system/system.log
+grep warning /opt/orion-system/system.log
 
-grep -i warning /opt/orion-system/system.log
+## Indice
+
+La commande `grep` possède une option pour ignorer les majuscules/minuscules.
+
+👉 Cherchez cette option avec :
+
+```bash
+grep --help

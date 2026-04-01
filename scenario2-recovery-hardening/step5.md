@@ -1,5 +1,3 @@
-# 🧱 STEP 5 — Sécurisation
-
 # Étape 5 — Sécuriser le fichier
 
 ## Concept

@@ -1,5 +1,3 @@
-# 🧱 STEP 1 — Navigation (step1.md)
-
 # Étape 1 — Découverte du système
 
 ## Contexte
@@ -37,3 +35,13 @@ ls
 
 cd /opt/orion-system
 ls
+
+## Aide intégrée sous Linux
+
+Sous Linux, chaque commande possède une documentation intégrée.
+
+Deux outils importants :
+
+```bash
+man ls
+ls --help

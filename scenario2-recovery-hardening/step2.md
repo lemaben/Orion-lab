@@ -1,5 +1,3 @@
-# 🧱 STEP 2 — Remédiation
-
 # Étape 2 — Restaurer le fichier
 
 ## Problème

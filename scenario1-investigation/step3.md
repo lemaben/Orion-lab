@@ -1,5 +1,3 @@
-# 🔍 STEP 3 — Logs
-
 # Étape 3 — Comprendre les logs
 
 ## Contexte

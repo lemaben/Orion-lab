@@ -1,5 +1,3 @@
-# 🧱 STEP 4 — Permissions
-
 # Étape 4 — Comprendre les permissions
 
 ## Contexte

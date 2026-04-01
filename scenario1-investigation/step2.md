@@ -1,5 +1,3 @@
-# 📄 STEP 2 — Lecture fichiers
-
 # Étape 2 — Lecture des fichiers
 
 ## Contexte
